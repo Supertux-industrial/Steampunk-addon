@@ -1,0 +1,5 @@
+(supertux-music
+  (file "Infactory.ogg")
+  (loop-begin 7.384)
+  (loop-at    106.461)
+)

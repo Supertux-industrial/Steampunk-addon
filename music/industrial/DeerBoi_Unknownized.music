@@ -1,0 +1,5 @@
+(supertux-music
+  (file "DeerBoi Unknownized.ogg")
+  (loop-begin 3.840)
+  (loop-at    57.600)
+)
